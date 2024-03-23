@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Healthcare project @Cognizant**
 
-- 🌱 I’m currently learning **Selenium, Spring boot and Javascript**
+- 🌱 I’m currently learning **All Testing concepts like selenium, API testing using Postman, RESTAssured, Database Testing**
 
-- 🤝 I’m looking for help with **Codebase**
+- 🤝 I’m looking for help with **Automating code**
 
 - 💬 Ask me about **Automation Testing, API Testing, Database Testing, Selenium**
 
 - 📫 How to reach me **proneetofficial111@gmail.com**
 
-- ⚡ Fun fact **I think everything can be automated**
+- ⚡ Fun fact **I think everything can be automated and if so then there will be no Job arround.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
