@@ -1,15 +1,15 @@
 [![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)](https://github.com/ProneetS)
 <h1 align="center">Hi 👋, I'm Proneet</h1>
-<h3 align="center">A passionate SDET from India</h3>
+<h3 align="center">A passionate Test Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cutewallpaper.org/25/anime-pixel-gif-wallpaper/moon-thief-%F0%9F%8C%92-pixel-art-background-cool-pixel-art-pixel-art-landscape.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proneets&label=Profile%20views&color=0e75b6&style=flat" alt="proneets" /> </p>
 
-- 🔭 I’m currently working on **Healthcare project @Cognizant**
+- 🔭 I’m currently working on **Healthcare Illinois based project @Cognizant as a Functional Tester**
 
 - 🌱 I’m currently learning **All Testing concepts like selenium, API testing using Postman, RESTAssured, Database Testing**
 
-- 🤝 I’m looking for help with **Automating code**
+- 🤝 I’m looking for help with **knowing Awesome Automating concepts and tricks**
 
 - 💬 Ask me about **Automation Testing, API Testing, Database Testing, Selenium**
 
