@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proneets&label=Profile%20views&color=0e75b6&style=flat" alt="proneets" /> </p>
 
-- 🔭 I’m currently working on **Healthcare Illinois based project @Cognizant as a Functional Tester**
+- 🔭 I’ve worked on **Healthcare Illinois based project @Cognizant as a Functional Tester** and in a AI based startup as an UI Manual QA 
 
 - 🌱 I’m currently learning **All Testing concepts like selenium, API testing using Postman, RESTAssured, Database Testing**
 
