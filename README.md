@@ -7,7 +7,7 @@
 
 - 🔭 I’ve worked on **Healthcare Illinois based project @Cognizant as a Functional Tester** and in a AI based startup as an UI Manual QA 
 
-- 🌱 I’m currently learning **All Testing concepts like selenium, API testing using Postman, RESTAssured, Database Testing**
+- 🌱 I’m currently learning **all Testing tools and concepts like selenium WebDriver, API testing using Postman, RESTAssured, Database Testing**
 
 - 🤝 I’m looking for help with **knowing Awesome Automating concepts and tricks**
 
