@@ -76,7 +76,7 @@ Currently, I'm developing some automation skills, where I'm actively engaged in 
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=_Proneet_S&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=proneets&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -86,14 +86,14 @@ Currently, I'm developing some automation skills, where I'm actively engaged in 
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=_Proneet_S&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=_Proneet_S&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=proneets&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proneets&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=_Proneet_S&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=proneets&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
