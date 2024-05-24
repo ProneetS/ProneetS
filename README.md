@@ -1,38 +1,106 @@
-[![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)](https://github.com/ProneetS)
-<h1 align="center">Hi 👋, I'm Proneet</h1>
-<h3 align="center">A passionate Test Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cutewallpaper.org/25/anime-pixel-gif-wallpaper/moon-thief-%F0%9F%8C%92-pixel-art-background-cool-pixel-art-pixel-art-landscape.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=proneets&label=Profile%20views&color=0e75b6&style=flat" alt="proneets" /> </p>
 
-- 🔭 I’ve worked on **Healthcare Illinois based project @Cognizant as a Functional Tester** and in a AI based startup as an UI Manual QA 
+### About Me:    
+I'm a passionate software tester with with around 3.8 Years of experience in Testing industry, specializing in Functional Testing(Manual). I thrive on tackling regression tasks and exploring the fascinating realm of Automation. Additionally, I am bringing better stack to my skillset.
 
-- 🌱 I’m currently learning **all Testing tools and concepts like selenium WebDriver, API testing using Postman, RESTAssured, Database Testing**
+Currently, I'm developing some automation skills, where I'm actively engaged in crafting and analyzing various automation concept. During my leisure time, you'll find me scaling up my problem-solving skills on LeetCode like platform.
+    
 
-- 🤝 I’m looking for help with **knowing Awesome Automating concepts and tricks**
+### Working on: 🚀
 
-- 💬 Ask me about **Automation Testing, API Testing, Database Testing, Selenium**
+- Tweaking this README for optimal engagement 
+- [Automation with Java and Selenium WebDriver](https://github.com/ProneetS/Selenium_Foundation) 
+- [REST API Automation using Postman ](https://github.com/ProneetS/API_Testing_RestAssured/tree/main/Project1_API_Testing)
 
-- 📫 How to reach me **proneetofficial111@gmail.com**
 
-- ⚡ Fun fact **I think everything can be automated and if so then there will be no Job arround.**
+## Languages and Tools 
+<div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/proneet-kumar-seth-a09514116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="proneet kumar seth" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/White_Noob_Coder?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@white_noob_coder" height="30" width="40" /></a>
-<a href="https://leetcode.com/Proneet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noobcodder" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/proneetofficial111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="proneetofficial111" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_proneet" height="30" width="40" /></a>
+### Languages:
+| Java | JS |
+|----------|--------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>
+
+### Best frameworks and main libraries for Automation with Java:
+
+| Selenium | TestNG | Maven | Junit |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" title="TestNG" alt="TestNG" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="Junit" alt="Junit" width="55" height="55"/>|
+
+
+
+### My tools for Automation:
+
+| Eclipse | MySQL | SQLite | VS Code | JSON |
+|----------|----------|----------|------------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>|
+
+
+
+  
+### Environments, Testing, Other:
+
+| Git | Docker | Swagger | Postman | Virtual Box|
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Virtual" alt="Virtual" width="80" height="55"/>|
+
+
+### OS: 
+
+| Windows | Linux |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+
+
+
+
+<!--
+
+### It's not technology, but I use it. The section will be changed soon.:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
+--> 
+</div>
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=_Proneet_S&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+
+---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=proneets&show_icons=true&locale=en&layout=compact" alt="proneets" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=proneets&show_icons=true&locale=en" alt="proneets" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proneets&" alt="proneets" /></p>
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=_Proneet_S&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=_Proneet_S&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
 
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=_Proneet_S&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
+
+### How to reach me :mailbox:
+[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="35" height="35"/>] (https://www.linkedin.com/in/proneet-kumar-seth-a09514116/)
