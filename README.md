@@ -103,4 +103,4 @@ Currently, I'm developing some automation skills, where I'm actively engaged in 
 
 
 ### How to reach me :mailbox:
-[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="35" height="35"/>] (https://www.linkedin.com/in/proneet-kumar-seth-a09514116/)
+- LinkedIn: [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="45" height="45"/>] (https://www.linkedin.com/in/proneet-kumar-seth-a09514116/)
