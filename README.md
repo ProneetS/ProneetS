@@ -32,7 +32,7 @@ Currently, I'm developing some automation skills, where I'm actively engaged in 
 ### My tools for Automation:
 
 | Eclipse | MySQL | SQLite | VS Code | JSON |
-|----------|----------|----------|------------|
+|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="55" height="55"/>|
 
 
@@ -48,7 +48,7 @@ Currently, I'm developing some automation skills, where I'm actively engaged in 
 ### OS: 
 
 | Windows | Linux |
-|----------|----------|----------|
+|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 
