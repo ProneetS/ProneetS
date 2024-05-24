@@ -97,10 +97,10 @@ Currently, I'm developing some automation skills, where I'm actively engaged in 
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" width="1000" alt="snake"/>
 </p>
 
 
 
 ### How to reach me :mailbox:
-- LinkedIn: [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="45" height="45"/>] (https://www.linkedin.com/in/proneet-kumar-seth-a09514116/)
+[![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)][https://www.linkedin.com/in/proneet-kumar-seth-a09514116/]
