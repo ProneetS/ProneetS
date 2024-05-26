@@ -23,9 +23,9 @@ Currently, I'm developing some automation skills, where I'm actively engaged in 
 
 ### Best frameworks and main libraries for Automation with Java:
 
-| Selenium | TestNG | Maven | Junit |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" title="TestNG" alt="TestNG" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="Junit" alt="Junit" width="55" height="55"/>|
+| Selenium | TestNG | Maven | Junit | Jenkins |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" title="TestNG" alt="TestNG" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="Junit" alt="Junit" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/>|
 
 
 
