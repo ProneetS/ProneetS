@@ -105,3 +105,4 @@ Currently, I'm developing some automation skills, where I'm actively engaged in 
 ### How to reach me :mailbox:
 <a href="https://www.linkedin.com/in/proneet-kumar-seth-a09514116/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="proneet" height="40" width="40" /></a>
 <a href="https://t.me/Pro_promise" target="blank"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="proneet" height="40" width="40" /></a>
+<a href="mailto:proneetseth.office@gmail.com"><img src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" alt="proneetemail" height="40" width="40" /></a>
