@@ -48,7 +48,7 @@ Currently, I'm developing my automation skills, where I'm actively engaged in cr
 
 | Windows | Linux |
 |----------|----------|
-| <img src="https://iconscout.com/lottie-animation/windows-9623873" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 <!-- [https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg] -->
 
