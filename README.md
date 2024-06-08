@@ -19,8 +19,7 @@ Currently, I'm developing my automation skills, where I'm actively engaged in cr
 ### Languages:
 | Java | JS |
 |----------|--------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>
-
+|  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div> |  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>|
 ### Best frameworks and main libraries for Automation with Java:
 
 | Selenium | TestNG | Maven | Junit | Jenkins | REST |
