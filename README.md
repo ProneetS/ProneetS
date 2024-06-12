@@ -1,9 +1,9 @@
 
 
-### About Me:    
+## About Me:    
 I'm a passionate **software tester** with around **3.8 Years of experience** in Testing industry, specializing in Functional Testing(Manual). I thrive on tackling regression tasks and exploring the fascinating realm of Automation. Additionally, I am bringing better stack to my skillset.
 
-Currently, I'm developing my automation skills, where I'm actively engaged in crafting and analyzing various automation concept and tools. During my leisure time, you'll find me scaling up my problem-solving skills on LeetCode like platform.
+Currently, I'm developing my *automation skills*, where I'm actively engaged in crafting and analyzing various automation concept and tools. During my leisure time, you'll find me scaling up my problem-solving skills on LeetCode like platform.
     
 
 ### Working on: 🚀
