@@ -17,9 +17,9 @@ Currently, I'm developing my *automation skills*, where I'm actively engaged in 
 <div>
 
 ### Languages:
-| Java | JS |
+| Java | Python |
 |----------|--------|
-|  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div> |  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>|
+|  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div> |  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>|
 ### Best frameworks and main libraries for Automation with Java:
 
 | Selenium | TestNG | Maven | Junit | Jenkins | REST |
